@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	54038B7F18ADCE2B00BC1E24 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5493609618AECF9000D789D4 /* Grapevines */;
+		activeTarget = 54038B8618ADCE2B00BC1E24 /* Grapevines */;
+		codeSenseManager = 549360B518AECF9E00D789D4 /* Code sense */;
+		executables = (
+			5493609618AECF9000D789D4 /* Grapevines */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 415278326;
+			PBXWorkspaceStateSaveDate = 415278326;
+		};
+		sourceControlManager = 549360B418AECF9E00D789D4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	54038B8618ADCE2B00BC1E24 /* Grapevines */ = {
+		activeExec = 0;
+		executables = (
+			5493609618AECF9000D789D4 /* Grapevines */,
+		);
+	};
+	54038BA118ADCE2B00BC1E24 /* GrapevinesTests */ = {
+		activeExec = 0;
+	};
+	5493609618AECF9000D789D4 /* Grapevines */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Grapevines;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	549360B418AECF9E00D789D4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	549360B518AECF9E00D789D4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
